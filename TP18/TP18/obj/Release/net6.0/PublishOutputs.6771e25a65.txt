@@ -1,0 +1,5 @@
+D:\repos\TP18\TP18\bin\Release\net6.0\publish\TP18.exe
+D:\repos\TP18\TP18\bin\Release\net6.0\publish\TP18.dll
+D:\repos\TP18\TP18\bin\Release\net6.0\publish\TP18.deps.json
+D:\repos\TP18\TP18\bin\Release\net6.0\publish\TP18.runtimeconfig.json
+D:\repos\TP18\TP18\bin\Release\net6.0\publish\TP18.pdb

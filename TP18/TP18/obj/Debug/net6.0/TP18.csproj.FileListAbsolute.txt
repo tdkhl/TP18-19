@@ -1,0 +1,15 @@
+D:\repos\TP18\TP18\bin\Debug\net6.0\TP18.exe
+D:\repos\TP18\TP18\bin\Debug\net6.0\TP18.deps.json
+D:\repos\TP18\TP18\bin\Debug\net6.0\TP18.runtimeconfig.json
+D:\repos\TP18\TP18\bin\Debug\net6.0\TP18.dll
+D:\repos\TP18\TP18\bin\Debug\net6.0\TP18.pdb
+D:\repos\TP18\TP18\obj\Debug\net6.0\TP18.csproj.AssemblyReference.cache
+D:\repos\TP18\TP18\obj\Debug\net6.0\TP18.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\TP18\TP18\obj\Debug\net6.0\TP18.AssemblyInfoInputs.cache
+D:\repos\TP18\TP18\obj\Debug\net6.0\TP18.AssemblyInfo.cs
+D:\repos\TP18\TP18\obj\Debug\net6.0\TP18.csproj.CoreCompileInputs.cache
+D:\repos\TP18\TP18\obj\Debug\net6.0\TP18.dll
+D:\repos\TP18\TP18\obj\Debug\net6.0\refint\TP18.dll
+D:\repos\TP18\TP18\obj\Debug\net6.0\TP18.pdb
+D:\repos\TP18\TP18\obj\Debug\net6.0\TP18.genruntimeconfig.cache
+D:\repos\TP18\TP18\obj\Debug\net6.0\ref\TP18.dll
