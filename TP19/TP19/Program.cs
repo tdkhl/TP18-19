@@ -11,6 +11,7 @@
             byte goal = Convert.ToByte(rdm.Next(10));
             byte essais = 0;
             bool found = false;
+            // Une boucle do-while aurait été + opti
             while(essais < 3)
             {
                 Console.Write($"Essai n°{essais.ToString()} : ");
