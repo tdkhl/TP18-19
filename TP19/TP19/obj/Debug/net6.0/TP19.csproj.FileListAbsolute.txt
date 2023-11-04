@@ -1,0 +1,15 @@
+D:\repos\TP19\TP19\bin\Debug\net6.0\TP19.exe
+D:\repos\TP19\TP19\bin\Debug\net6.0\TP19.deps.json
+D:\repos\TP19\TP19\bin\Debug\net6.0\TP19.runtimeconfig.json
+D:\repos\TP19\TP19\bin\Debug\net6.0\TP19.dll
+D:\repos\TP19\TP19\bin\Debug\net6.0\TP19.pdb
+D:\repos\TP19\TP19\obj\Debug\net6.0\TP19.csproj.AssemblyReference.cache
+D:\repos\TP19\TP19\obj\Debug\net6.0\TP19.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\TP19\TP19\obj\Debug\net6.0\TP19.AssemblyInfoInputs.cache
+D:\repos\TP19\TP19\obj\Debug\net6.0\TP19.AssemblyInfo.cs
+D:\repos\TP19\TP19\obj\Debug\net6.0\TP19.csproj.CoreCompileInputs.cache
+D:\repos\TP19\TP19\obj\Debug\net6.0\TP19.dll
+D:\repos\TP19\TP19\obj\Debug\net6.0\refint\TP19.dll
+D:\repos\TP19\TP19\obj\Debug\net6.0\TP19.pdb
+D:\repos\TP19\TP19\obj\Debug\net6.0\TP19.genruntimeconfig.cache
+D:\repos\TP19\TP19\obj\Debug\net6.0\ref\TP19.dll
